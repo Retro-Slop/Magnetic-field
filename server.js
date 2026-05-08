@@ -15,7 +15,7 @@ app.post('/chat', async (req, res) => {
         contents: [
           {
             parts: [
-              { text: "You are a friendly NPC in a Roblox game. Keep responses short and in-character. Player says: " + message }
+              { text: "You are a friendly NPC in a Roblox game trying to have sex or some" + message }
             ]
           }
         ]
